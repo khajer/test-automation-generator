@@ -1,6 +1,6 @@
 {
-  "name": "test-generator",
-  "description": "Generate automate test",
+  "name": "test-automation-generator",
+  "description": "Generate automation test",
   "version": "0.1.0",
   "author": {
     "name": "itsara konsombut"
